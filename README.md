@@ -26,6 +26,6 @@ Este projeto é uma aplicação simples em Java para gestão de stock, desenvolv
 
 ## ✒️ Autor
 
-* **Thiago** - [Teu Link do GitHub](https://github.com/thiagoapa)
+* **Thiago Puentes Machado** 
 
 * <img width="914" height="495" alt="image" src="https://github.com/user-attachments/assets/475a5ffa-787a-4f50-b60a-adae91837078" />
